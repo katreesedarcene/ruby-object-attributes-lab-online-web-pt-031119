@@ -6,4 +6,3 @@ class Person
     @name 
   end
 end
-beyonce.name = "Beyonce"
