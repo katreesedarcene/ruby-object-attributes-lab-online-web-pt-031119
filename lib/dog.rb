@@ -14,5 +14,7 @@ class Dog
 end
 fido = Dog.new 
 fido.name = "Fido"
-snoopy.name = "Snoopy"
-snoopy.breed = "Beagle"
+snoopy = Dog.new 
+
+snoopy.breed = "Beagle" 
+
